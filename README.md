@@ -12,13 +12,7 @@ Hi Everyone 👋<br>My name is Dimas Akmal Widi Pradana<br>I'm a Backend Develo
   <img src="https://github-readme-stats.vercel.app/api?username=dimasawp&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="54%" style="margin-right:1rem"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasawp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="42.5%"/>
 </p>
-
 <p float="left">
   <img src="https://nirzak-streak-stats.vercel.app/?user=dimasawp&theme=dark&hide_border=false" width="54%" /><br>
-</p>
-
-# 🔝 Top Contributed Repo
-<p float="left">
-  <img src="https://github-contributor-stats.vercel.app/api?username=dimasawp&limit=5&theme=dark&combine_all_yearly_contributions=true" width="54%"/>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
