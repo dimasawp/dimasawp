@@ -33,7 +33,8 @@ Hi Everyone 👋<br>My name is Dimas Akmal Widi Pradana<br>I'm a Backend Develo
 # 📊 GitHub Stats:
 <p float="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasawp&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="54%" style="margin-right:1rem"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasawp&layout=compact&theme=dark&include_all_commits=true&count_private=true" width="42.5%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasawp&layout=compact&theme=dark&include_all_commits=true&count_private=true" width="45%"/>
+  <!-- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasawp&layout=compact&theme=dark&include_all_commits=true&count_private=true" width="42.5%"/> -->
   <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=dimasawp&theme=dark&hide_border=false" width="54%" /><br> -->
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
